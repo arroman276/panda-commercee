@@ -1,0 +1,98 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&display=swap");
+body {
+  font-family: "Playfair Display", serif;
+}
+.navbar {
+  background-color: #ff99c8;
+}
+
+.nav-link {
+  color: white;
+}
+.dropdown-item:hover {
+  background-color: blue;
+}
+
+.dropdown-menu {
+  background-color: orange;
+}
+.dropdown-item {
+  color: aqua;
+  border-bottom: 2px solid white;
+}
+
+.banner {
+  background-color: #a9def9;
+  margin-top: 2rem;
+  border-radius: 1rem;
+  margin-bottom: 2rem;
+}
+.buy {
+  background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
+  color: white;
+  border: none;
+  border-radius: 8px;
+  padding: 9px 25px;
+  cursor: pointer;
+}
+.doller {
+  color: #ff418c;
+}
+.carousel-item {
+  padding: 20px 40px;
+}
+
+.top-banner {
+  margin-top: 2rem;
+  border-radius: 1rem;
+}
+
+.cat1 {
+  background-color: #ffa500;
+}
+
+.cat2 {
+  background-color: #da70d6;
+}
+
+.cat3 {
+  background-color: #0000ff;
+}
+
+.cat1,
+.cat2,
+.cat3 {
+  border-radius: 2rem;
+  padding: 2rem;
+}
+.item h1 {
+  color: white;
+}
+.item img {
+  width: 7rem;
+}
+
+.item {
+  margin-bottom: 2rem;
+}
+
+.card {
+  box-shadow: 15px 15px 10px lightgray;
+  border-radius: 10px;
+}
+
+.shoes {
+  margin-bottom: 4rem;
+}
+
+.subscribe {
+  background-color: #fceae8;
+  margin-top: 3rem;
+  margin-bottom: 5rem;
+  border-radius: 10px;
+  height: 15rem;
+}
+
+.carousel-item h1 {
+  color: #e29578;
+}
